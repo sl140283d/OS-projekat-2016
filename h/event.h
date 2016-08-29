@@ -1,9 +1,3 @@
-/*
- * event.h
- *
- *  Created on: Aug 22, 2016
- *      Author: OS1
- */
 
 #ifndef _event_h_
 #define _event_h_
